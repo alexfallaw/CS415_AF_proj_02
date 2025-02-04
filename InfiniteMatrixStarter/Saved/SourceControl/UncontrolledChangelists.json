@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/lives_bg.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/lives_full.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_HUD.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Life.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Fab/Abstract_Heart/abstract_heart_texture_0.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Fab/Abstract_Heart/abstract_heart_texture_1.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Fab/Abstract_Heart/abstract_heart_texture_2.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Fab/Abstract_Heart/Heart_Candy.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Fab/Abstract_Heart/abstract_heart.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Fab/Playing_card_suit_Symbols/playing_card_suit_symbols_texture_0.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Fab/Playing_card_suit_Symbols/playing_card_suit_symbols_texture_1.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Fab/Playing_card_suit_Symbols/default.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Fab/Playing_card_suit_Symbols/playing_card_suit_symbols.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Fab/Armored_Cockroach_Beetle_Scarab_With_Shar_Claws/armored_cockroach_beetle_scarab_with_shar_claws_texture_0.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Fab/Armored_Cockroach_Beetle_Scarab_With_Shar_Claws/armored_cockroach_beetle_scarab_with_shar_claws_texture_1.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Fab/Armored_Cockroach_Beetle_Scarab_With_Shar_Claws/bug02_2.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Fab/Armored_Cockroach_Beetle_Scarab_With_Shar_Claws/bug02_1.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Fab/Armored_Cockroach_Beetle_Scarab_With_Shar_Claws/armored_cockroach_beetle_scarab_with_shar_claws.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_LifeSpawner.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_GlowBlue.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_GlowRed.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_GlowGreen.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_GlowYellow.uasset",
+				"C:/Users/aleza/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Lives.uasset"
+			]
+		}
+	]
+}
