@@ -6789,3 +6789,1758 @@ Sampler Limit: 16
 [2025.02.06-03.18.49:695][821]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.06-03.18.49:695][821]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.06-03.18.49:696][821]AssetCheck: /Game/InfiniteMatrix/UI/WBP_Restart Validating asset
+[2025.02.06-03.20.46:586][797]LogEditorTransaction: Undo Change Number Pin Value
+[2025.02.06-03.20.46:924][803]LogEditorTransaction: Undo Change Number Pin Value
+[2025.02.06-03.20.47:157][807]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.20.47:600][843]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.20.48:340][904]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.20.48:929][951]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.00:359][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.00:387][764]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.00:391][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.00:395][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.00:398][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.00:401][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.00:403][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.00:406][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.00:409][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.00:411][764]LogEditorTransaction: Undo Break Pin Links
+[2025.02.06-03.21.00:415][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.00:418][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.00:421][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.00:425][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.00:428][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.00:432][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.00:435][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.00:438][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.00:441][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.00:444][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.00:447][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.00:450][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.00:454][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.00:457][764]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.00:460][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.00:464][764]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.00:468][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.00:543][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.00:555][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.00:564][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.00:575][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.00:585][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.00:596][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.00:606][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.00:616][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.00:625][764]LogEditorTransaction: Undo Create Reroute Node
+[2025.02.06-03.21.00:636][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.00:646][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.00:657][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.00:666][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.00:677][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.00:687][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.00:698][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.00:708][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.00:719][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.00:729][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.00:740][764]LogEditorTransaction: Undo Change Parameter Type
+[2025.02.06-03.21.00:756][764]LogEditorTransaction: Undo Rename Parameter
+[2025.02.06-03.21.00:773][764]LogEditorTransaction: Undo Add In Parameter
+[2025.02.06-03.21.00:791][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.00:802][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.00:814][764]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.00:826][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.00:837][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.00:848][764]LogEditorTransaction: Undo Break Pin Links
+[2025.02.06-03.21.00:858][764]LogEditorTransaction: Undo Remove Parameter
+[2025.02.06-03.21.00:991][764]LogEditorTransaction: Undo Change Number Pin Value
+[2025.02.06-03.21.00:995][764]LogEditorTransaction: Undo Change Number Pin Value
+[2025.02.06-03.21.00:998][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.01:001][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.01:004][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.01:007][764]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.01:011][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.01:015][764]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.01:019][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:022][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.01:025][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:029][764]LogEditorTransaction: Undo Create Reroute Node
+[2025.02.06-03.21.01:032][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:035][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:038][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.01:041][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:045][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.01:048][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:052][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:055][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.01:059][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:062][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.01:065][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:068][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:071][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:075][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:079][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:083][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.01:086][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.01:089][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.01:093][764]LogEditorTransaction: Undo Remove Graph
+[2025.02.06-03.21.01:099][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.01:115][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.01:130][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.01:144][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:159][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.01:175][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:190][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:204][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.01:219][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.01:234][764]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.01:250][764]LogEditorTransaction: Undo Rename Function
+[2025.02.06-03.21.01:266][764]LogEditorTransaction: Undo Add New Function
+[2025.02.06-03.21.01:286][764]LogEditorTransaction: Undo Rename Function
+[2025.02.06-03.21.01:290][764]LogEditorTransaction: Undo Add New Function
+[2025.02.06-03.21.01:296][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:300][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:303][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:309][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:315][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:319][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:322][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.01:324][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:327][764]LogEditorTransaction: Undo Create Reroute Node
+[2025.02.06-03.21.01:330][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:333][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:335][764]LogEditorTransaction: Undo Create Reroute Node
+[2025.02.06-03.21.01:338][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:341][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.01:344][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:347][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:350][764]LogEditorTransaction: Undo Create Reroute Node
+[2025.02.06-03.21.01:353][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.01:355][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.01:358][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:363][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:366][764]LogEditorTransaction: Undo Create Reroute Node
+[2025.02.06-03.21.01:369][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:372][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.01:388][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.01:403][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.01:419][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:434][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.01:448][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:463][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.01:479][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.01:494][764]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.01:509][764]LogEditorTransaction: Undo Rename Function
+[2025.02.06-03.21.01:526][764]LogEditorTransaction: Undo Rename Function
+[2025.02.06-03.21.01:541][764]LogEditorTransaction: Undo Add New Function
+[2025.02.06-03.21.01:560][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:577][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:593][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:608][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:623][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.01:638][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:653][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.01:668][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.01:683][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:699][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:715][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:731][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:747][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:763][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:780][764]LogEditorTransaction: Undo Change Parameter Type
+[2025.02.06-03.21.01:798][764]LogEditorTransaction: Undo Rename Variable
+[2025.02.06-03.21.01:817][764]LogEditorTransaction: Undo Add Variable
+[2025.02.06-03.21.01:833][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.01:848][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:864][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:879][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:894][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:909][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.01:924][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:940][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:954][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.01:970][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.01:988][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.02:005][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.02:021][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.02:038][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:053][764]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.02:070][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.02:086][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:102][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.02:119][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.02:135][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.02:151][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.02:167][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.02:184][764]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.02:202][764]LogEditorTransaction: Undo Rename Function
+[2025.02.06-03.21.02:219][764]LogEditorTransaction: Undo Add New Function
+[2025.02.06-03.21.02:236][764]LogEditorTransaction: Undo Move Anchor
+[2025.02.06-03.21.02:240][764]LogEditorTransaction: Undo Change Bool Pin Value
+[2025.02.06-03.21.02:243][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:246][764]LogEditorTransaction: Undo Create Reroute Node
+[2025.02.06-03.21.02:249][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:251][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.02:254][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:256][764]LogEditorTransaction: Undo Create Reroute Node
+[2025.02.06-03.21.02:259][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.02:261][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.02:265][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:268][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.02:271][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.02:273][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:290][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:305][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.02:321][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:337][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.02:353][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:369][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:386][764]LogEditorTransaction: Undo Break Pin Links
+[2025.02.06-03.21.02:404][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.02:421][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.02:438][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.02:454][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:470][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.02:486][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.02:503][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:520][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.02:537][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:553][764]LogEditorTransaction: Undo Change Parameter Type
+[2025.02.06-03.21.02:572][764]LogEditorTransaction: Undo Rename Variable
+[2025.02.06-03.21.02:591][764]LogEditorTransaction: Undo Add Variable
+[2025.02.06-03.21.02:611][764]LogEditorTransaction: Undo Change Number Pin Value
+[2025.02.06-03.21.02:627][764]LogEditorTransaction: Undo Change Number Pin Value
+[2025.02.06-03.21.02:643][764]LogEditorTransaction: Undo Change Number Pin Value
+[2025.02.06-03.21.02:660][764]LogEditorTransaction: Undo Change Number Pin Value
+[2025.02.06-03.21.02:676][764]LogEditorTransaction: Undo Change Number Pin Value
+[2025.02.06-03.21.02:693][764]LogEditorTransaction: Undo Change Number Pin Value
+[2025.02.06-03.21.02:708][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.02:725][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:741][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.02:757][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.02:774][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:792][764]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.02:810][764]LogEditorTransaction: Undo Change Number Pin Value
+[2025.02.06-03.21.02:828][764]LogEditorTransaction: Undo Add Pin
+[2025.02.06-03.21.02:845][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:862][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.02:879][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.02:896][764]LogEditorTransaction: Undo Remove Variable
+[2025.02.06-03.21.02:915][764]LogEditorTransaction: Undo Rename Variable
+[2025.02.06-03.21.02:934][764]LogEditorTransaction: Undo Add Variable
+[2025.02.06-03.21.02:952][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.02:969][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.02:986][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.03:005][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.03:024][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.03:043][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.03:061][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.03:079][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.03:098][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.03:115][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.03:136][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.03:151][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.03:169][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.03:187][764]LogEditorTransaction: Undo Add Pin
+[2025.02.06-03.21.03:204][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.03:209][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.03:213][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.03:217][764]LogEditorTransaction: Undo Change Number Pin Value
+[2025.02.06-03.21.03:222][764]LogEditorTransaction: Undo Change Bool Pin Value
+[2025.02.06-03.21.03:226][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.03:229][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.03:232][764]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.03:239][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.03:241][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.03:261][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.03:279][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.03:296][764]LogEditorTransaction: Undo Create Reroute Node
+[2025.02.06-03.21.03:314][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.03:334][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.03:350][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.03:367][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.03:385][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.03:403][764]LogEditorTransaction: Undo Change Parameter Type
+[2025.02.06-03.21.03:431][764]LogEditorTransaction: Undo Rename Variable
+[2025.02.06-03.21.03:450][764]LogEditorTransaction: Undo Add Variable
+[2025.02.06-03.21.03:469][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.03:488][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.03:505][764]LogEditorTransaction: Undo Create Reroute Node
+[2025.02.06-03.21.03:523][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.03:541][764]LogEditorTransaction: Undo Create Reroute Node
+[2025.02.06-03.21.03:560][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.03:578][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.03:597][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.03:619][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.03:639][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.03:657][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.03:675][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.03:693][764]LogEditorTransaction: Undo Change Parameter Type
+[2025.02.06-03.21.03:717][764]LogEditorTransaction: Undo Rename Parameter
+[2025.02.06-03.21.03:741][764]LogEditorTransaction: Undo Add In Parameter
+[2025.02.06-03.21.03:763][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.03:777][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.03:792][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.03:806][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.03:823][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.03:842][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.03:860][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.03:875][764]LogEditorTransaction: Undo Change Number Pin Value
+[2025.02.06-03.21.03:895][764]LogEditorTransaction: Undo Change Parameter Type
+[2025.02.06-03.21.03:914][764]LogEditorTransaction: Undo Rename Parameter
+[2025.02.06-03.21.03:934][764]LogEditorTransaction: Undo Add In Parameter
+[2025.02.06-03.21.03:950][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.03:960][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.03:971][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.03:981][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.03:991][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.04:002][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:011][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.04:024][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.04:039][764]LogEditorTransaction: Undo Change Class Pin Value
+[2025.02.06-03.21.04:051][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:060][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.04:072][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.04:075][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:078][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.04:080][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:084][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.04:086][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:089][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.04:092][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:094][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:097][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.04:100][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.04:105][764]LogEditorTransaction: Undo Edit Text
+[2025.02.06-03.21.04:108][764]LogEditorTransaction: Undo Edit Background Color
+[2025.02.06-03.21.04:112][764]LogEditorTransaction: Undo Rename Widget
+[2025.02.06-03.21.04:117][764]LogEditorTransaction: Undo Rename Widget
+[2025.02.06-03.21.04:121][764]LogEditorTransaction: Undo Edit Text
+[2025.02.06-03.21.04:125][764]LogEditorTransaction: Undo Rename Widget
+[2025.02.06-03.21.04:130][764]LogEditorTransaction: Undo Edit Background Color
+[2025.02.06-03.21.04:133][764]LogEditorTransaction: Undo Edit Text
+[2025.02.06-03.21.04:136][764]LogEditorTransaction: Undo Edit Background Color
+[2025.02.06-03.21.04:139][764]LogEditorTransaction: Undo Rename Widget
+[2025.02.06-03.21.04:145][764]LogEditorTransaction: Undo Duplicate selection
+[2025.02.06-03.21.04:152][764]LogEditorTransaction: Undo Duplicate selection
+[2025.02.06-03.21.04:158][764]LogEditorTransaction: Undo Duplicate selection
+[2025.02.06-03.21.04:164][764]LogEditorTransaction: Undo Remove Widget
+[2025.02.06-03.21.04:169][764]LogEditorTransaction: Undo Edit Outline Size
+[2025.02.06-03.21.04:172][764]LogEditorTransaction: Undo Edit Mitered Corners
+[2025.02.06-03.21.04:175][764]LogEditorTransaction: Undo Edit Outline Size
+[2025.02.06-03.21.04:178][764]LogEditorTransaction: Undo Edit Monospacing
+[2025.02.06-03.21.04:181][764]LogEditorTransaction: Undo Edit Monospacing
+[2025.02.06-03.21.04:185][764]LogEditorTransaction: Undo Edit Size
+[2025.02.06-03.21.04:188][764]LogEditorTransaction: Undo Edit Typeface
+[2025.02.06-03.21.04:191][764]LogEditorTransaction: Undo Edit Font Family
+[2025.02.06-03.21.04:193][764]LogEditorTransaction: Undo Edit Color and Opacity
+[2025.02.06-03.21.04:196][764]LogEditorTransaction: Undo Edit Color and Opacity
+[2025.02.06-03.21.04:200][764]LogEditorTransaction: Undo Edit Background Color
+[2025.02.06-03.21.04:203][764]LogEditorTransaction: Undo Edit Text
+[2025.02.06-03.21.04:206][764]LogEditorTransaction: Undo Edit Text
+[2025.02.06-03.21.04:209][764]LogEditorTransaction: Undo Edit Text
+[2025.02.06-03.21.04:212][764]LogEditorTransaction: Undo Edit Constant
+[2025.02.06-03.21.04:214][764]LogEditorTransaction: Undo Remove Widget
+[2025.02.06-03.21.04:219][764]LogEditorTransaction: Undo Rename Widget
+[2025.02.06-03.21.04:226][764]LogEditorTransaction: Undo Rename Widget
+[2025.02.06-03.21.04:233][764]LogEditorTransaction: Undo Rename Widget
+[2025.02.06-03.21.04:238][764]LogEditorTransaction: Undo Rename Widget
+[2025.02.06-03.21.04:244][764]LogEditorTransaction: Undo Rename Widget
+[2025.02.06-03.21.04:250][764]LogEditorTransaction: Undo Duplicate selection
+[2025.02.06-03.21.04:258][764]LogEditorTransaction: Undo Duplicate selection
+[2025.02.06-03.21.04:267][764]LogEditorTransaction: Undo Duplicate selection
+[2025.02.06-03.21.04:271][764]LogEditorTransaction: Undo Remove Widget
+[2025.02.06-03.21.04:276][764]LogEditorTransaction: Undo Remove Widget
+[2025.02.06-03.21.04:281][764]LogEditorTransaction: Undo Remove Widget
+[2025.02.06-03.21.04:286][764]LogEditorTransaction: Undo Duplicate selection
+[2025.02.06-03.21.04:293][764]LogEditorTransaction: Undo Edit Background Color
+[2025.02.06-03.21.04:296][764]LogEditorTransaction: Undo Edit Text
+[2025.02.06-03.21.04:300][764]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.02.06-03.21.04:301][764]LogEditorTransaction: Undo Edit Size Rule
+[2025.02.06-03.21.04:306][764]LogEditorTransaction: Undo Edit Padding
+[2025.02.06-03.21.04:310][764]LogEditorTransaction: Undo Edit Padding
+[2025.02.06-03.21.04:313][764]LogEditorTransaction: Undo Edit Size To Content
+[2025.02.06-03.21.04:316][764]LogEditorTransaction: Undo Edit Size To Content
+[2025.02.06-03.21.04:319][764]LogEditorTransaction: Undo Edit Orientation
+[2025.02.06-03.21.04:321][764]LogEditorTransaction: Undo Rename Widget
+[2025.02.06-03.21.04:326][764]LogEditorTransaction: Undo Rename Widget
+[2025.02.06-03.21.04:331][764]LogEditorTransaction: Undo Rename Widget
+[2025.02.06-03.21.04:336][764]LogEditorTransaction: Undo Rename Widget
+[2025.02.06-03.21.04:340][764]LogEditorTransaction: Undo Add Widget
+[2025.02.06-03.21.04:344][764]LogEditorTransaction: Undo Move Widget
+[2025.02.06-03.21.04:350][764]LogEditorTransaction: Undo Add Widget
+[2025.02.06-03.21.04:353][764]LogEditorTransaction: Undo Add Widget
+[2025.02.06-03.21.04:356][764]LogEditorTransaction: Undo Move Widget
+[2025.02.06-03.21.04:360][764]LogEditorTransaction: Undo Add Widget
+[2025.02.06-03.21.04:363][764]LogEditorTransaction: Undo Resize Widget
+[2025.02.06-03.21.04:367][764]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.02.06-03.21.04:368][764]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.02.06-03.21.04:371][764]LogEditorTransaction: Undo Remove Widget
+[2025.02.06-03.21.04:375][764]LogEditorTransaction: Undo Move Widget
+[2025.02.06-03.21.04:379][764]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.02.06-03.21.04:383][764]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.02.06-03.21.04:386][764]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.04:390][764]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.02.06-03.21.04:393][764]LogEditorTransaction: Undo Edit Bottom
+[2025.02.06-03.21.04:395][764]LogEditorTransaction: Undo Edit Bottom
+[2025.02.06-03.21.04:399][764]LogEditorTransaction: Undo Edit Right
+[2025.02.06-03.21.04:401][764]LogEditorTransaction: Undo Resize Node
+[2025.02.06-03.21.04:413][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.04:424][764]LogEditorTransaction: Undo Resize Node
+[2025.02.06-03.21.04:441][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.04:455][764]LogEditorTransaction: Undo Break Pin Links
+[2025.02.06-03.21.04:466][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.04:478][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.04:491][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.04:501][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.04:515][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:529][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.04:539][764]LogEditorTransaction: Undo Add Pin
+[2025.02.06-03.21.04:551][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:561][764]LogEditorTransaction: Undo Rename Node
+[2025.02.06-03.21.04:572][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.04:583][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:595][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.04:606][764]LogEditorTransaction: Undo Rename Variable
+[2025.02.06-03.21.04:618][764]LogEditorTransaction: Undo Add Variable
+[2025.02.06-03.21.04:633][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:648][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.04:661][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:674][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.04:687][764]LogEditorTransaction: Undo Rename Variable
+[2025.02.06-03.21.04:701][764]LogEditorTransaction: Undo Add Variable
+[2025.02.06-03.21.04:716][764]LogEditorTransaction: Undo Resize Node
+[2025.02.06-03.21.04:730][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:743][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:756][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.04:766][764]LogEditorTransaction: Undo Change Number Pin Value
+[2025.02.06-03.21.04:781][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.04:796][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:808][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.04:820][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:838][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:850][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.04:861][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.04:873][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:885][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:896][764]LogEditorTransaction: Undo Resize Node
+[2025.02.06-03.21.04:908][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:919][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:930][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:941][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.04:953][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.04:964][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.04:975][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.04:987][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.04:999][764]LogEditorTransaction: Undo Resize Node
+[2025.02.06-03.21.05:010][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:021][764]LogEditorTransaction: Undo Break Pin Links
+[2025.02.06-03.21.05:036][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:049][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:061][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:073][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:086][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:097][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:109][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:120][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:133][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:145][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.05:156][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:169][764]LogEditorTransaction: Undo Change Parameter Type
+[2025.02.06-03.21.05:184][764]LogEditorTransaction: Undo Rename Variable
+[2025.02.06-03.21.05:195][764]LogEditorTransaction: Undo Add Variable
+[2025.02.06-03.21.05:209][764]LogEditorTransaction: Undo Rename Widget
+[2025.02.06-03.21.05:213][764]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.02.06-03.21.05:217][764]LogEditorTransaction: Undo Add Widget
+[2025.02.06-03.21.05:218][764]LogEditorTransaction: Undo Edit Size
+[2025.02.06-03.21.05:221][764]LogEditorTransaction: Undo Edit Size
+[2025.02.06-03.21.05:225][764]LogEditorTransaction: Undo Resize Widget
+[2025.02.06-03.21.05:228][764]LogEditorTransaction: Undo Resize Widget
+[2025.02.06-03.21.05:231][764]LogEditorTransaction: Undo Move Anchor
+[2025.02.06-03.21.05:235][764]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.02.06-03.21.05:239][764]LogEditorTransaction: Undo Resize Widget
+[2025.02.06-03.21.05:243][764]LogEditorTransaction: Undo Resize Widget
+[2025.02.06-03.21.05:246][764]LogEditorTransaction: Undo Edit Justification
+[2025.02.06-03.21.05:251][764]LogEditorTransaction: Undo Resize Widget
+[2025.02.06-03.21.05:256][764]LogEditorTransaction: Undo Edit Size
+[2025.02.06-03.21.05:259][764]LogEditorTransaction: Undo Edit Outline Color
+[2025.02.06-03.21.05:262][764]LogEditorTransaction: Undo Edit Mitered Corners
+[2025.02.06-03.21.05:264][764]LogEditorTransaction: Undo Edit Typeface
+[2025.02.06-03.21.05:270][764]LogEditorTransaction: Undo Edit Font Family
+[2025.02.06-03.21.05:274][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:277][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:280][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:284][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:288][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:291][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:293][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:296][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:299][764]LogEditorTransaction: Undo Change String Pin Value
+[2025.02.06-03.21.05:304][764]LogEditorTransaction: Undo Break Pin Links
+[2025.02.06-03.21.05:307][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:310][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:313][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:317][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.05:321][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.05:324][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:327][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:330][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:334][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.05:338][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:341][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:344][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:347][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:352][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:355][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:358][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:361][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:363][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:368][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:373][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:375][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:378][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:381][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:386][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:390][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:393][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:396][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:399][764]LogEditorTransaction: Undo Create Binding
+[2025.02.06-03.21.05:408][764]LogEditorTransaction: Undo Rename Widget
+[2025.02.06-03.21.05:411][764]LogEditorTransaction: Undo Variable Toggle
+[2025.02.06-03.21.05:416][764]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.02.06-03.21.05:421][764]LogEditorTransaction: Undo Move Anchor
+[2025.02.06-03.21.05:424][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:444][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:448][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:451][764]LogEditorTransaction: Undo Change Collision Profile
+[2025.02.06-03.21.05:454][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:458][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:461][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:468][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.05:469][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:472][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:476][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:479][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:483][764]LogEditorTransaction: Undo Split Struct Pin
+[2025.02.06-03.21.05:487][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:491][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:495][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.05:501][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.05:503][764]LogEditorTransaction: Undo Edit Init Speed
+[2025.02.06-03.21.05:505][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.05:509][764]LogEditorTransaction: Undo Reset to Default
+[2025.02.06-03.21.05:511][764]LogEditorTransaction: Undo Reset to Default
+[2025.02.06-03.21.05:513][764]LogEditorTransaction: Undo Change Text Pin Value
+[2025.02.06-03.21.05:514][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:516][764]LogEditorTransaction: Undo Break Pin Links
+[2025.02.06-03.21.05:516][764]LogEditorTransaction: Undo Break Pin Links
+[2025.02.06-03.21.05:517][764]LogEditorTransaction: Undo Break Pin Links
+[2025.02.06-03.21.05:518][764]LogEditorTransaction: Undo Resize Widget
+[2025.02.06-03.21.05:519][764]LogEditorTransaction: Undo Resize Widget
+[2025.02.06-03.21.05:520][764]LogEditorTransaction: Undo Resize Widget
+[2025.02.06-03.21.05:521][764]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.02.06-03.21.05:523][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:523][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:524][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:525][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:526][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:527][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:528][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:529][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:530][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:533][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:533][764]LogEditorTransaction: Undo Change String Pin Value
+[2025.02.06-03.21.05:534][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:535][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:536][764]LogEditorTransaction: Undo Change String Pin Value
+[2025.02.06-03.21.05:537][764]LogEditorTransaction: Undo Break Pin Links
+[2025.02.06-03.21.05:538][764]LogEditorTransaction: Undo Break Pin Links
+[2025.02.06-03.21.05:539][764]LogEditorTransaction: Undo Add Pin
+[2025.02.06-03.21.05:540][764]LogEditorTransaction: Undo Add Pin
+[2025.02.06-03.21.05:542][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.05:543][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:544][764]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.05:545][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:546][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:547][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:548][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:550][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.05:550][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:551][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:552][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:553][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:558][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:561][764]LogEditorTransaction: Undo Rename Variable
+[2025.02.06-03.21.05:567][764]LogEditorTransaction: Undo Add Variable
+[2025.02.06-03.21.05:570][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:571][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:571][764]LogEditorTransaction: Undo Resize Node
+[2025.02.06-03.21.05:584][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:596][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:608][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.05:620][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:631][764]LogEditorTransaction: Undo Change Parameter Type
+[2025.02.06-03.21.05:647][764]LogEditorTransaction: Undo Rename Variable
+[2025.02.06-03.21.05:666][764]LogEditorTransaction: Undo Add Variable
+[2025.02.06-03.21.05:680][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:692][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:704][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:717][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:729][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:741][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:754][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.05:766][764]LogEditorTransaction: Undo Edit Color Bubble
+[2025.02.06-03.21.05:779][764]LogEditorTransaction: Undo Edit Show Bubble When Zoomed
+[2025.02.06-03.21.05:792][764]LogEditorTransaction: Undo Edit Comment Color
+[2025.02.06-03.21.05:805][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:816][764]LogEditorTransaction: Undo Edit Color Bubble
+[2025.02.06-03.21.05:829][764]LogEditorTransaction: Undo Edit Show Bubble When Zoomed
+[2025.02.06-03.21.05:843][764]LogEditorTransaction: Undo Edit Comment Color
+[2025.02.06-03.21.05:858][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:874][764]LogEditorTransaction: Undo Rename Node
+[2025.02.06-03.21.05:890][764]LogEditorTransaction: Undo Edit Color Bubble
+[2025.02.06-03.21.05:903][764]LogEditorTransaction: Undo Edit Show Bubble When Zoomed
+[2025.02.06-03.21.05:917][764]LogEditorTransaction: Undo Edit Comment Color
+[2025.02.06-03.21.05:929][764]LogEditorTransaction: Undo Rename Node
+[2025.02.06-03.21.05:941][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.05:953][764]LogEditorTransaction: Undo Edit Color Bubble
+[2025.02.06-03.21.05:967][764]LogEditorTransaction: Undo Edit Color Bubble
+[2025.02.06-03.21.05:980][764]LogEditorTransaction: Undo Edit Show Bubble When Zoomed
+[2025.02.06-03.21.05:993][764]LogEditorTransaction: Undo Edit Show Bubble When Zoomed
+[2025.02.06-03.21.06:007][764]LogEditorTransaction: Undo Edit Comment Color
+[2025.02.06-03.21.06:020][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.06:034][764]LogEditorTransaction: Undo Edit Comment Color
+[2025.02.06-03.21.06:048][764]LogEditorTransaction: Undo Rename Node
+[2025.02.06-03.21.06:062][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.06:083][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:084][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.06:086][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:088][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:089][764]LogEditorTransaction: Undo Break Pin Links
+[2025.02.06-03.21.06:091][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.06:093][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.06:094][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.06:095][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:096][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.06:097][764]LogEditorTransaction: Undo Create Binding
+[2025.02.06-03.21.06:100][764]LogEditorTransaction: Undo Variable Toggle
+[2025.02.06-03.21.06:103][764]LogEditorTransaction: Undo Rename Widget
+[2025.02.06-03.21.06:105][764]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.02.06-03.21.06:106][764]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.06:109][764]LogEditorTransaction: Undo Remove Widget
+[2025.02.06-03.21.06:111][764]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.02.06-03.21.06:111][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.06:128][764]LogEditorTransaction: Undo Break Pin Links
+[2025.02.06-03.21.06:142][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.06:146][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.06:153][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.06:158][764]LogEditorTransaction: Undo Change Collision Profile
+[2025.02.06-03.21.06:161][764]LogEditorTransaction: Undo Break Pin Links
+[2025.02.06-03.21.06:167][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.06:169][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:173][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.06:177][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:180][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.06:184][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.06:189][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:193][764]LogEditorTransaction: Undo Create Reroute Node
+[2025.02.06-03.21.06:196][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.06:200][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.06:203][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.06:207][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.06:210][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.06:215][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:218][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:221][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.06:224][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.06:229][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.06:233][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:236][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.06:239][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.06:244][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.06:247][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.06:251][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:254][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:257][764]LogEditorTransaction: Undo Create Reroute Node
+[2025.02.06-03.21.06:263][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:267][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:273][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:280][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.06:284][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:291][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:295][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.06:298][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:305][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.06:309][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:313][764]LogEditorTransaction: Undo Edit Max Speed
+[2025.02.06-03.21.06:315][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.06:322][764]LogEditorTransaction: Undo Rename Variable
+[2025.02.06-03.21.06:327][764]LogEditorTransaction: Undo Add Variable
+[2025.02.06-03.21.06:331][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.06:338][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:342][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.06:345][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:349][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.06:355][764]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.21.06:358][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:362][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:366][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.06:374][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.06:378][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.06:382][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:389][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.06:393][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.06:396][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.06:400][764]LogEditorTransaction: Undo Edit Max Speed
+[2025.02.06-03.21.06:403][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.06:406][764]LogEditorTransaction: Undo Delete current selection
+[2025.02.06-03.21.06:411][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.06:415][764]LogEditorTransaction: Undo Paste clipboard contents
+[2025.02.06-03.21.06:420][764]LogEditorTransaction: Undo Move Nodes
+[2025.02.06-03.21.06:424][764]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.21.06:427][764]LogEditorTransaction: Undo Add Node
+[2025.02.06-03.21.06:431][764]LogEditorTransaction: Undo Rename Variable
+[2025.02.06-03.21.06:436][764]LogEditorTransaction: Undo Change Parameter Type
+[2025.02.06-03.21.06:444][764]LogEditorTransaction: Undo Rename Variable
+[2025.02.06-03.21.38:069][465]LogEditorTransaction: Redo Rename Variable
+[2025.02.06-03.21.38:086][465]LogEditorTransaction: Redo Change Parameter Type
+[2025.02.06-03.21.38:093][465]LogEditorTransaction: Redo Rename Variable
+[2025.02.06-03.21.38:098][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:102][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:105][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.38:109][465]LogEditorTransaction: Redo Paste clipboard contents
+[2025.02.06-03.21.38:114][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.38:119][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.38:123][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:127][465]LogEditorTransaction: Redo Edit Max Speed
+[2025.02.06-03.21.38:129][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.38:134][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.38:138][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:141][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:144][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:148][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.38:152][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.38:156][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:160][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:163][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:166][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.38:170][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:174][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:178][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:181][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:185][465]LogEditorTransaction: Redo Add Variable
+[2025.02.06-03.21.38:189][465]LogEditorTransaction: Redo Rename Variable
+[2025.02.06-03.21.38:194][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:198][465]LogEditorTransaction: Redo Edit Max Speed
+[2025.02.06-03.21.38:200][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:204][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:208][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:211][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.38:215][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:219][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:223][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.38:227][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:230][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:233][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:237][465]LogEditorTransaction: Redo Create Reroute Node
+[2025.02.06-03.21.38:241][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:244][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:249][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:252][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:256][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.38:260][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.38:264][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:267][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.38:271][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.38:275][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.38:279][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:283][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:287][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.38:290][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:294][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.38:298][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:302][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:305][465]LogEditorTransaction: Redo Create Reroute Node
+[2025.02.06-03.21.38:309][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:313][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:320][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:326][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:332][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:337][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:343][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:350][465]LogEditorTransaction: Redo Break Pin Links
+[2025.02.06-03.21.38:356][465]LogEditorTransaction: Redo Change Collision Profile
+[2025.02.06-03.21.38:360][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.38:366][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.38:372][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.38:377][465]LogEditorTransaction: Redo Break Pin Links
+[2025.02.06-03.21.38:421][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:426][465]LogEditorTransaction: Redo Drag and Drop Widget
+[2025.02.06-03.21.38:428][465]LogEditorTransaction: Redo Remove Widget
+[2025.02.06-03.21.38:430][465]LogEditorTransaction: Redo Paste clipboard contents
+[2025.02.06-03.21.38:433][465]LogEditorTransaction: Redo Drag and Drop Widget
+[2025.02.06-03.21.38:434][465]LogEditorTransaction: Redo Rename Widget
+[2025.02.06-03.21.38:437][465]LogEditorTransaction: Redo Variable Toggle
+[2025.02.06-03.21.38:439][465]LogEditorTransaction: Redo Create Binding
+[2025.02.06-03.21.38:443][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:444][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:444][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:445][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:446][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:447][465]LogEditorTransaction: Redo Break Pin Links
+[2025.02.06-03.21.38:448][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:449][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:450][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:451][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:453][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:459][465]LogEditorTransaction: Redo Rename Node
+[2025.02.06-03.21.38:463][465]LogEditorTransaction: Redo Edit Comment Color
+[2025.02.06-03.21.38:470][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:477][465]LogEditorTransaction: Redo Edit Comment Color
+[2025.02.06-03.21.38:483][465]LogEditorTransaction: Redo Edit Show Bubble When Zoomed
+[2025.02.06-03.21.38:489][465]LogEditorTransaction: Redo Edit Show Bubble When Zoomed
+[2025.02.06-03.21.38:496][465]LogEditorTransaction: Redo Edit Color Bubble
+[2025.02.06-03.21.38:502][465]LogEditorTransaction: Redo Edit Color Bubble
+[2025.02.06-03.21.38:509][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:514][465]LogEditorTransaction: Redo Rename Node
+[2025.02.06-03.21.38:519][465]LogEditorTransaction: Redo Edit Comment Color
+[2025.02.06-03.21.38:525][465]LogEditorTransaction: Redo Edit Show Bubble When Zoomed
+[2025.02.06-03.21.38:532][465]LogEditorTransaction: Redo Edit Color Bubble
+[2025.02.06-03.21.38:538][465]LogEditorTransaction: Redo Rename Node
+[2025.02.06-03.21.38:543][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:548][465]LogEditorTransaction: Redo Edit Comment Color
+[2025.02.06-03.21.38:554][465]LogEditorTransaction: Redo Edit Show Bubble When Zoomed
+[2025.02.06-03.21.38:560][465]LogEditorTransaction: Redo Edit Color Bubble
+[2025.02.06-03.21.38:567][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:640][465]LogEditorTransaction: Redo Edit Comment Color
+[2025.02.06-03.21.38:649][465]LogEditorTransaction: Redo Edit Show Bubble When Zoomed
+[2025.02.06-03.21.38:656][465]LogEditorTransaction: Redo Edit Color Bubble
+[2025.02.06-03.21.38:663][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:668][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:675][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:680][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:686][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:692][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:698][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:703][465]LogEditorTransaction: Redo Add Variable
+[2025.02.06-03.21.38:710][465]LogEditorTransaction: Redo Rename Variable
+[2025.02.06-03.21.38:718][465]LogEditorTransaction: Redo Change Parameter Type
+[2025.02.06-03.21.38:725][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:730][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:736][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:741][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:747][465]LogEditorTransaction: Redo Resize Node
+[2025.02.06-03.21.38:751][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:753][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:754][465]LogEditorTransaction: Redo Add Variable
+[2025.02.06-03.21.38:762][465]LogEditorTransaction: Redo Rename Variable
+[2025.02.06-03.21.38:769][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:775][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:782][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:783][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:784][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:785][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.38:786][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:787][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:788][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:789][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:790][465]LogEditorTransaction: Redo Paste clipboard contents
+[2025.02.06-03.21.38:791][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:792][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.38:793][465]LogEditorTransaction: Redo Add Pin
+[2025.02.06-03.21.38:795][465]LogEditorTransaction: Redo Add Pin
+[2025.02.06-03.21.38:797][465]LogEditorTransaction: Redo Break Pin Links
+[2025.02.06-03.21.38:798][465]LogEditorTransaction: Redo Break Pin Links
+[2025.02.06-03.21.38:799][465]LogEditorTransaction: Redo Change String Pin Value
+[2025.02.06-03.21.38:800][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:800][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:802][465]LogEditorTransaction: Redo Change String Pin Value
+[2025.02.06-03.21.38:803][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:804][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:805][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:806][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:807][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:808][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:809][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:810][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:811][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:812][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:813][465]LogEditorTransaction: Redo Drag and Drop Widget
+[2025.02.06-03.21.38:814][465]LogEditorTransaction: Redo Resize Widget
+[2025.02.06-03.21.38:815][465]LogEditorTransaction: Redo Resize Widget
+[2025.02.06-03.21.38:816][465]LogEditorTransaction: Redo Resize Widget
+[2025.02.06-03.21.38:817][465]LogEditorTransaction: Redo Break Pin Links
+[2025.02.06-03.21.38:818][465]LogEditorTransaction: Redo Break Pin Links
+[2025.02.06-03.21.38:819][465]LogEditorTransaction: Redo Break Pin Links
+[2025.02.06-03.21.38:820][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:820][465]LogEditorTransaction: Redo Change Text Pin Value
+[2025.02.06-03.21.38:822][465]LogEditorTransaction: Redo Reset to Default
+[2025.02.06-03.21.38:827][465]LogEditorTransaction: Redo Reset to Default
+[2025.02.06-03.21.38:830][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.38:837][465]LogEditorTransaction: Redo Edit Init Speed
+[2025.02.06-03.21.38:842][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.38:849][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.38:855][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:862][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:869][465]LogEditorTransaction: Redo Split Struct Pin
+[2025.02.06-03.21.38:875][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:880][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:888][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:894][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:900][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.38:907][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:913][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:920][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:927][465]LogEditorTransaction: Redo Change Collision Profile
+[2025.02.06-03.21.38:931][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:937][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:944][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.38:950][465]LogEditorTransaction: Redo Move Anchor
+[2025.02.06-03.21.38:955][465]LogEditorTransaction: Redo Drag and Drop Widget
+[2025.02.06-03.21.38:959][465]LogEditorTransaction: Redo Variable Toggle
+[2025.02.06-03.21.38:962][465]LogEditorTransaction: Redo Rename Widget
+[2025.02.06-03.21.38:966][465]LogEditorTransaction: Redo Create Binding
+[2025.02.06-03.21.38:971][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:975][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:977][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:980][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:983][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:985][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:988][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.38:992][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:994][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.38:997][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:000][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.39:002][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:005][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:008][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:010][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:013][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.39:016][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:019][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.39:022][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.39:024][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:027][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.39:030][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:033][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.39:036][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.39:039][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.39:043][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.39:046][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.39:048][465]LogEditorTransaction: Redo Break Pin Links
+[2025.02.06-03.21.39:052][465]LogEditorTransaction: Redo Change String Pin Value
+[2025.02.06-03.21.39:055][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:058][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.39:061][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:063][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:066][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:069][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:072][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:075][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:078][465]LogEditorTransaction: Redo Edit Font Family
+[2025.02.06-03.21.39:081][465]LogEditorTransaction: Redo Edit Typeface
+[2025.02.06-03.21.39:083][465]LogEditorTransaction: Redo Edit Mitered Corners
+[2025.02.06-03.21.39:086][465]LogEditorTransaction: Redo Edit Outline Color
+[2025.02.06-03.21.39:090][465]LogEditorTransaction: Redo Edit Size
+[2025.02.06-03.21.39:093][465]LogEditorTransaction: Redo Resize Widget
+[2025.02.06-03.21.39:096][465]LogEditorTransaction: Redo Edit Justification
+[2025.02.06-03.21.39:099][465]LogEditorTransaction: Redo Resize Widget
+[2025.02.06-03.21.39:102][465]LogEditorTransaction: Redo Resize Widget
+[2025.02.06-03.21.39:105][465]LogEditorTransaction: Redo Drag and Drop Widget
+[2025.02.06-03.21.39:108][465]LogEditorTransaction: Redo Move Anchor
+[2025.02.06-03.21.39:112][465]LogEditorTransaction: Redo Resize Widget
+[2025.02.06-03.21.39:115][465]LogEditorTransaction: Redo Resize Widget
+[2025.02.06-03.21.39:118][465]LogEditorTransaction: Redo Edit Size
+[2025.02.06-03.21.39:121][465]LogEditorTransaction: Redo Edit Size
+[2025.02.06-03.21.39:124][465]LogEditorTransaction: Redo Add Widget
+[2025.02.06-03.21.39:127][465]LogEditorTransaction: Redo Drag and Drop Widget
+[2025.02.06-03.21.39:130][465]LogEditorTransaction: Redo Rename Widget
+[2025.02.06-03.21.39:135][465]LogEditorTransaction: Redo Add Variable
+[2025.02.06-03.21.39:143][465]LogEditorTransaction: Redo Rename Variable
+[2025.02.06-03.21.39:151][465]LogEditorTransaction: Redo Change Parameter Type
+[2025.02.06-03.21.39:158][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.39:164][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.39:170][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.39:175][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:181][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.39:186][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:192][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.39:198][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.39:204][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.39:209][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.39:215][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:220][465]LogEditorTransaction: Redo Break Pin Links
+[2025.02.06-03.21.39:226][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:232][465]LogEditorTransaction: Redo Resize Node
+[2025.02.06-03.21.39:238][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.39:245][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.39:252][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.39:258][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.39:264][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:270][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:276][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:282][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:287][465]LogEditorTransaction: Redo Resize Node
+[2025.02.06-03.21.39:294][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:300][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:305][465]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.21.39:312][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.39:318][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:323][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:329][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.39:336][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:342][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.39:348][465]LogEditorTransaction: Redo Change Number Pin Value
+[2025.02.06-03.21.39:355][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.39:361][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:367][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:373][465]LogEditorTransaction: Redo Resize Node
+[2025.02.06-03.21.39:380][465]LogEditorTransaction: Redo Add Variable
+[2025.02.06-03.21.39:388][465]LogEditorTransaction: Redo Rename Variable
+[2025.02.06-03.21.39:397][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.39:403][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:410][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.39:417][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:423][465]LogEditorTransaction: Redo Add Variable
+[2025.02.06-03.21.39:432][465]LogEditorTransaction: Redo Rename Variable
+[2025.02.06-03.21.39:440][465]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.21.39:449][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:456][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.39:463][465]LogEditorTransaction: Redo Rename Node
+[2025.02.06-03.21.39:470][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:476][465]LogEditorTransaction: Redo Add Pin
+[2025.02.06-03.21.39:484][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.39:491][465]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.21.39:498][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.39:506][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.39:512][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.39:519][465]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.21.39:531][465]LogEditorTransaction: Redo Break Pin Links
+[2025.02.06-03.21.39:537][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.39:545][465]LogEditorTransaction: Redo Resize Node
+[2025.02.06-03.21.39:552][465]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.21.39:559][465]LogEditorTransaction: Redo Resize Node
+[2025.02.06-03.21.39:566][465]LogEditorTransaction: Redo Edit Right
+[2025.02.06-03.21.39:569][465]LogEditorTransaction: Redo Edit Bottom
+[2025.02.06-03.21.39:573][465]LogEditorTransaction: Redo Edit Bottom
+[2025.02.06-03.21.49:641][304]LogEditorTransaction: Redo Drag and Drop Widget
+[2025.02.06-03.22.05:486][866]LogEditorTransaction: Redo Paste clipboard contents
+[2025.02.06-03.22.05:520][866]LogEditorTransaction: Redo Drag and Drop Widget
+[2025.02.06-03.22.05:524][866]LogEditorTransaction: Redo Drag and Drop Widget
+[2025.02.06-03.22.05:527][866]LogEditorTransaction: Redo Move Widget
+[2025.02.06-03.22.05:533][866]LogEditorTransaction: Redo Remove Widget
+[2025.02.06-03.22.05:537][866]LogEditorTransaction: Redo Drag and Drop Widget
+[2025.02.06-03.22.05:540][866]LogEditorTransaction: Redo Drag and Drop Widget
+[2025.02.06-03.22.05:542][866]LogEditorTransaction: Redo Resize Widget
+[2025.02.06-03.22.05:544][866]LogEditorTransaction: Redo Add Widget
+[2025.02.06-03.22.05:548][866]LogEditorTransaction: Redo Move Widget
+[2025.02.06-03.22.05:552][866]LogEditorTransaction: Redo Add Widget
+[2025.02.06-03.22.05:556][866]LogEditorTransaction: Redo Add Widget
+[2025.02.06-03.22.05:560][866]LogEditorTransaction: Redo Move Widget
+[2025.02.06-03.22.05:565][866]LogEditorTransaction: Redo Add Widget
+[2025.02.06-03.22.05:569][866]LogEditorTransaction: Redo Rename Widget
+[2025.02.06-03.22.05:574][866]LogEditorTransaction: Redo Rename Widget
+[2025.02.06-03.22.05:579][866]LogEditorTransaction: Redo Rename Widget
+[2025.02.06-03.22.05:584][866]LogEditorTransaction: Redo Rename Widget
+[2025.02.06-03.22.05:589][866]LogEditorTransaction: Redo Edit Orientation
+[2025.02.06-03.22.05:591][866]LogEditorTransaction: Redo Edit Size To Content
+[2025.02.06-03.22.05:594][866]LogEditorTransaction: Redo Edit Size To Content
+[2025.02.06-03.22.05:597][866]LogEditorTransaction: Redo Edit Padding
+[2025.02.06-03.22.05:601][866]LogEditorTransaction: Redo Edit Padding
+[2025.02.06-03.22.05:605][866]LogEditorTransaction: Redo Edit Size Rule
+[2025.02.06-03.22.05:609][866]LogEditorTransaction: Redo Drag and Drop Widget
+[2025.02.06-03.22.05:612][866]LogEditorTransaction: Redo Edit Text
+[2025.02.06-03.22.05:614][866]LogEditorTransaction: Redo Edit Background Color
+[2025.02.06-03.22.05:618][866]LogEditorTransaction: Redo Duplicate selection
+[2025.02.06-03.22.05:627][866]LogEditorTransaction: Redo Remove Widget
+[2025.02.06-03.22.05:632][866]LogEditorTransaction: Redo Remove Widget
+[2025.02.06-03.22.05:637][866]LogEditorTransaction: Redo Remove Widget
+[2025.02.06-03.22.05:642][866]LogEditorTransaction: Redo Duplicate selection
+[2025.02.06-03.22.05:649][866]LogEditorTransaction: Redo Duplicate selection
+[2025.02.06-03.22.05:659][866]LogEditorTransaction: Redo Duplicate selection
+[2025.02.06-03.22.05:668][866]LogEditorTransaction: Redo Rename Widget
+[2025.02.06-03.22.05:674][866]LogEditorTransaction: Redo Rename Widget
+[2025.02.06-03.22.05:681][866]LogEditorTransaction: Redo Rename Widget
+[2025.02.06-03.22.05:688][866]LogEditorTransaction: Redo Rename Widget
+[2025.02.06-03.22.05:694][866]LogEditorTransaction: Redo Rename Widget
+[2025.02.06-03.22.05:700][866]LogEditorTransaction: Redo Remove Widget
+[2025.02.06-03.22.05:707][866]LogEditorTransaction: Redo Edit Constant
+[2025.02.06-03.22.05:709][866]LogEditorTransaction: Redo Edit Text
+[2025.02.06-03.22.05:711][866]LogEditorTransaction: Redo Edit Text
+[2025.02.06-03.22.05:714][866]LogEditorTransaction: Redo Edit Text
+[2025.02.06-03.22.05:717][866]LogEditorTransaction: Redo Edit Background Color
+[2025.02.06-03.22.05:721][866]LogEditorTransaction: Redo Edit Color and Opacity
+[2025.02.06-03.22.05:724][866]LogEditorTransaction: Redo Edit Color and Opacity
+[2025.02.06-03.22.05:727][866]LogEditorTransaction: Redo Edit Font Family
+[2025.02.06-03.22.05:730][866]LogEditorTransaction: Redo Edit Typeface
+[2025.02.06-03.22.05:733][866]LogEditorTransaction: Redo Edit Size
+[2025.02.06-03.22.05:736][866]LogEditorTransaction: Redo Edit Monospacing
+[2025.02.06-03.22.05:739][866]LogEditorTransaction: Redo Edit Monospacing
+[2025.02.06-03.22.05:743][866]LogEditorTransaction: Redo Edit Outline Size
+[2025.02.06-03.22.05:746][866]LogEditorTransaction: Redo Edit Mitered Corners
+[2025.02.06-03.22.05:749][866]LogEditorTransaction: Redo Edit Outline Size
+[2025.02.06-03.22.05:752][866]LogEditorTransaction: Redo Remove Widget
+[2025.02.06-03.22.05:757][866]LogEditorTransaction: Redo Duplicate selection
+[2025.02.06-03.22.05:764][866]LogEditorTransaction: Redo Duplicate selection
+[2025.02.06-03.22.05:771][866]LogEditorTransaction: Redo Duplicate selection
+[2025.02.06-03.22.05:779][866]LogEditorTransaction: Redo Rename Widget
+[2025.02.06-03.22.05:785][866]LogEditorTransaction: Redo Edit Background Color
+[2025.02.06-03.22.05:789][866]LogEditorTransaction: Redo Edit Text
+[2025.02.06-03.22.05:791][866]LogEditorTransaction: Redo Edit Background Color
+[2025.02.06-03.22.05:794][866]LogEditorTransaction: Redo Rename Widget
+[2025.02.06-03.22.05:800][866]LogEditorTransaction: Redo Edit Text
+[2025.02.06-03.22.20:214][374]LogEditorTransaction: Redo Rename Widget
+[2025.02.06-03.22.20:236][374]LogEditorTransaction: Redo Rename Widget
+[2025.02.06-03.22.20:243][374]LogEditorTransaction: Redo Edit Background Color
+[2025.02.06-03.22.20:246][374]LogEditorTransaction: Redo Edit Text
+[2025.02.06-03.22.20:249][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:254][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:256][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:259][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:262][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:264][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:267][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:269][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:272][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:274][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:277][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:280][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:328][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:333][374]LogEditorTransaction: Redo Change Class Pin Value
+[2025.02.06-03.22.20:338][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:343][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:348][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:353][374]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.22.20:358][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:363][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:368][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:373][374]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.22.20:378][374]LogEditorTransaction: Redo Add In Parameter
+[2025.02.06-03.22.20:389][374]LogEditorTransaction: Redo Rename Parameter
+[2025.02.06-03.22.20:401][374]LogEditorTransaction: Redo Change Parameter Type
+[2025.02.06-03.22.20:412][374]LogEditorTransaction: Redo Change Number Pin Value
+[2025.02.06-03.22.20:422][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:427][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:432][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:437][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:443][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:448][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:453][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:458][374]LogEditorTransaction: Redo Add In Parameter
+[2025.02.06-03.22.20:470][374]LogEditorTransaction: Redo Rename Parameter
+[2025.02.06-03.22.20:481][374]LogEditorTransaction: Redo Change Parameter Type
+[2025.02.06-03.22.20:492][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:498][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:503][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:508][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:514][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:520][374]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.22.20:525][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:531][374]LogEditorTransaction: Redo Create Reroute Node
+[2025.02.06-03.22.20:536][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:541][374]LogEditorTransaction: Redo Create Reroute Node
+[2025.02.06-03.22.20:547][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:553][374]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.22.20:558][374]LogEditorTransaction: Redo Add Variable
+[2025.02.06-03.22.20:567][374]LogEditorTransaction: Redo Rename Variable
+[2025.02.06-03.22.20:574][374]LogEditorTransaction: Redo Change Parameter Type
+[2025.02.06-03.22.20:581][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:587][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:593][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:599][374]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.22.20:604][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:610][374]LogEditorTransaction: Redo Create Reroute Node
+[2025.02.06-03.22.20:616][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:621][374]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.22.20:627][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:633][374]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.22.20:637][374]LogEditorTransaction: Redo Paste clipboard contents
+[2025.02.06-03.22.20:640][374]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.22.20:642][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:645][374]LogEditorTransaction: Redo Change Bool Pin Value
+[2025.02.06-03.22.20:647][374]LogEditorTransaction: Redo Change Number Pin Value
+[2025.02.06-03.22.20:650][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:653][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:656][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:659][374]LogEditorTransaction: Redo Add Pin
+[2025.02.06-03.22.20:665][374]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.22.20:671][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:676][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:682][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:688][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:694][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:700][374]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.22.20:707][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:712][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:806][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:814][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:821][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:827][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:833][374]LogEditorTransaction: Redo Add Variable
+[2025.02.06-03.22.20:842][374]LogEditorTransaction: Redo Rename Variable
+[2025.02.06-03.22.20:850][374]LogEditorTransaction: Redo Remove Variable
+[2025.02.06-03.22.20:859][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:864][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:871][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:877][374]LogEditorTransaction: Redo Add Pin
+[2025.02.06-03.22.20:884][374]LogEditorTransaction: Redo Change Number Pin Value
+[2025.02.06-03.22.20:890][374]LogEditorTransaction: Redo Paste clipboard contents
+[2025.02.06-03.22.20:896][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:903][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:909][374]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.22.20:915][374]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.22.20:922][374]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.22.20:928][374]LogEditorTransaction: Redo Change Number Pin Value
+[2025.02.06-03.22.20:934][374]LogEditorTransaction: Redo Change Number Pin Value
+[2025.02.06-03.22.20:941][374]LogEditorTransaction: Redo Change Number Pin Value
+[2025.02.06-03.22.20:948][374]LogEditorTransaction: Redo Change Number Pin Value
+[2025.02.06-03.22.20:953][374]LogEditorTransaction: Redo Change Number Pin Value
+[2025.02.06-03.22.20:959][374]LogEditorTransaction: Redo Change Number Pin Value
+[2025.02.06-03.23.04:461][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.02.06-03.23.04:471][249]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.181
+[2025.02.06-03.23.04:472][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.02.06-03.23.04:472][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2025.02.06-03.23.04:495][249]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto8
+[2025.02.06-03.23.04:495][249]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_proj_02/InfiniteMatrixStarter/Saved/BP_Player_Auto85FCD578A4CC8ACA9DF5B31A3EF3E2558.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_proj_02/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto8.uasset'
+[2025.02.06-03.23.04:497][249]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/UI/WBP_Restart] ([2] browsable assets)...
+[2025.02.06-03.23.04:498][249]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Restart.WBP_Restart]
+[2025.02.06-03.23.04:498][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/UI/WBP_Restart]
+[2025.02.06-03.23.04:505][249]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/UI/WBP_Restart_Auto8
+[2025.02.06-03.23.04:505][249]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_proj_02/InfiniteMatrixStarter/Saved/WBP_Restart_Auto8B8F2BFCC4E2BD26BD919C1BA0CFCDB5A.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_proj_02/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/UI/WBP_Restart_Auto8.uasset'
+[2025.02.06-03.23.04:506][249]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/UI/WBP_Menu] ([2] browsable assets)...
+[2025.02.06-03.23.04:508][249]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Menu.WBP_Menu]
+[2025.02.06-03.23.04:508][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/UI/WBP_Menu]
+[2025.02.06-03.23.04:515][249]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/UI/WBP_Menu_Auto8
+[2025.02.06-03.23.04:515][249]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_proj_02/InfiniteMatrixStarter/Saved/WBP_Menu_Auto813A12A114D135DEF134EDF8EB3015547.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_proj_02/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/UI/WBP_Menu_Auto8.uasset'
+[2025.02.06-03.23.04:516][249]LogFileHelpers: Auto-saving content packages took 0.044
+[2025.02.06-03.23.09:141][668]LogEditorTransaction: Redo Add Variable
+[2025.02.06-03.23.09:704][679]LogEditorTransaction: Redo Rename Variable
+[2025.02.06-03.23.10:163][721]LogEditorTransaction: Redo Change Parameter Type
+[2025.02.06-03.23.10:984][797]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.11:446][839]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.23.11:914][880]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.12:344][918]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.23.12:937][970]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.23.14:214][ 32]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.14:215][ 32]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.14:888][ 75]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.14:888][ 75]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.15:330][ 99]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.15:330][ 99]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.15:788][123]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.15:788][123]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.16:294][152]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.16:294][152]LogEditorTransaction: Redo Break Pin Links
+[2025.02.06-03.23.16:728][174]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.16:728][174]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.17:728][219]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.17:729][219]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.20:223][417]Cmd: TRANSACTION UNDO
+[2025.02.06-03.23.20:223][417]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.23.20:570][432]Cmd: TRANSACTION UNDO
+[2025.02.06-03.23.20:570][432]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.23.20:919][436]Cmd: TRANSACTION UNDO
+[2025.02.06-03.23.20:919][436]LogEditorTransaction: Undo Break Pin Links
+[2025.02.06-03.23.21:188][438]Cmd: TRANSACTION UNDO
+[2025.02.06-03.23.21:188][438]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.23.21:414][443]Cmd: TRANSACTION UNDO
+[2025.02.06-03.23.21:414][443]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.23.21:675][451]Cmd: TRANSACTION UNDO
+[2025.02.06-03.23.21:675][451]LogEditorTransaction: Undo Create Pin Link
+[2025.02.06-03.23.22:057][469]Cmd: TRANSACTION UNDO
+[2025.02.06-03.23.22:057][469]LogEditorTransaction: Undo Move Node
+[2025.02.06-03.23.23:330][563]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.23:330][563]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.23:587][571]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.23:587][571]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.23:832][577]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.23:832][577]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.24:075][584]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.24:075][584]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.24:340][592]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.24:340][592]LogEditorTransaction: Redo Break Pin Links
+[2025.02.06-03.23.24:652][595]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.24:652][595]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.24:921][597]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.24:921][597]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.25:168][603]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.25:168][603]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.23.28:612][897]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.28:612][897]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.28:919][902]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.28:919][902]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.23.29:153][906]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.29:153][906]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.29:392][927]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.29:392][927]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.32:096][179]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.32:096][179]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.23.32:344][195]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.32:344][195]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.23.33:042][219]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.33:042][219]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.33:416][249]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.33:416][249]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.33:719][272]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.33:719][272]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.34:009][294]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.34:009][294]LogEditorTransaction: Redo Create Reroute Node
+[2025.02.06-03.23.34:293][316]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.34:293][316]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.34:590][339]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.34:590][339]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.23.34:918][365]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.34:918][365]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.35:227][389]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.35:227][389]LogEditorTransaction: Redo Create Reroute Node
+[2025.02.06-03.23.35:535][413]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.35:535][413]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.35:867][438]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.35:867][438]LogEditorTransaction: Redo Change Bool Pin Value
+[2025.02.06-03.23.36:169][443]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.36:169][443]LogEditorTransaction: Redo Move Anchor
+[2025.02.06-03.23.36:441][449]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.36:441][449]LogEditorTransaction: Redo Add New Function
+[2025.02.06-03.23.36:721][473]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.36:721][473]LogEditorTransaction: Redo Rename Function
+[2025.02.06-03.23.37:046][501]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.37:046][501]LogEditorTransaction: Redo Paste clipboard contents
+[2025.02.06-03.23.37:337][526]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.37:337][526]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.23.37:691][557]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.37:691][557]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.38:067][590]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.38:067][590]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.23.38:472][626]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.38:472][626]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.23.38:815][656]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.38:815][656]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.23.39:130][683]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.39:130][683]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.39:471][712]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.39:471][712]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.39:836][719]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.39:836][719]LogEditorTransaction: Redo Paste clipboard contents
+[2025.02.06-03.23.40:142][733]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.40:142][733]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.40:487][763]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.40:487][763]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.40:815][791]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.40:815][791]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.23.41:131][818]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.41:131][818]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.23.41:460][846]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.41:460][846]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.23.41:760][872]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.41:760][872]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.42:052][897]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.42:052][897]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.42:379][925]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.42:379][925]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.23.42:716][954]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.42:717][954]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.43:040][981]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.43:040][981]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.43:453][989]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.43:453][989]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.43:736][  4]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.43:736][  4]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.23.44:056][ 32]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.44:056][ 32]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.44:434][ 64]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.44:434][ 64]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.23.44:752][ 91]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.44:752][ 91]LogEditorTransaction: Redo Add Variable
+[2025.02.06-03.23.45:057][116]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.45:057][116]LogEditorTransaction: Redo Rename Variable
+[2025.02.06-03.23.45:334][139]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.45:334][139]LogEditorTransaction: Redo Change Parameter Type
+[2025.02.06-03.23.45:641][164]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.45:641][164]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.23.45:954][191]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.45:954][191]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.46:262][218]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.46:262][218]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.46:693][254]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.46:693][254]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.23.47:003][260]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.47:003][260]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.47:313][271]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.47:313][271]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.23.47:772][312]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.47:772][312]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.48:132][344]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.48:132][344]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.48:411][368]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.48:411][368]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.48:690][392]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.48:690][392]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.49:022][421]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.49:022][421]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.49:337][448]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.49:337][448]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.49:670][477]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.49:670][477]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.50:005][506]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.50:006][506]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.50:340][534]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.50:340][534]LogEditorTransaction: Redo Add New Function
+[2025.02.06-03.23.51:183][571]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.51:183][571]LogEditorTransaction: Redo Rename Function
+[2025.02.06-03.23.51:538][601]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.51:538][601]LogEditorTransaction: Redo Rename Function
+[2025.02.06-03.23.51:872][630]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.51:872][630]LogEditorTransaction: Redo Paste clipboard contents
+[2025.02.06-03.23.52:195][657]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.52:195][657]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.23.52:494][682]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.52:494][682]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.52:794][707]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.52:794][707]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.23.53:090][732]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.53:090][732]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.23.53:379][756]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.53:379][756]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.53:683][782]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.53:683][782]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.53:973][806]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.53:973][806]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.23.54:334][813]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.54:334][813]LogEditorTransaction: Redo Delete current selection
+[2025.02.06-03.23.54:588][822]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.54:588][822]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.23.54:875][843]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.54:875][843]LogEditorTransaction: Redo Create Reroute Node
+[2025.02.06-03.23.55:168][864]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.55:168][864]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.55:669][903]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.55:669][903]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.56:016][929]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.56:016][929]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.23.56:343][953]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.56:343][953]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.23.56:660][980]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.56:660][980]LogEditorTransaction: Redo Create Reroute Node
+[2025.02.06-03.23.56:973][  6]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.56:973][  6]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.57:337][ 37]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.57:337][ 37]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.57:681][ 66]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.57:681][ 66]LogEditorTransaction: Redo Move Nodes
+[2025.02.06-03.23.57:986][ 72]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.57:986][ 72]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.58:299][ 81]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.58:299][ 81]LogEditorTransaction: Redo Create Reroute Node
+[2025.02.06-03.23.58:648][112]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.58:648][112]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.23.58:982][141]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.58:982][141]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.23.59:324][171]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.59:324][171]LogEditorTransaction: Redo Create Reroute Node
+[2025.02.06-03.23.59:682][202]Cmd: TRANSACTION REDO
+[2025.02.06-03.23.59:682][202]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.24.00:158][244]Cmd: TRANSACTION REDO
+[2025.02.06-03.24.00:158][244]LogEditorTransaction: Redo Create Pin Link
+[2025.02.06-03.24.00:575][280]Cmd: TRANSACTION REDO
+[2025.02.06-03.24.00:575][280]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.24.00:898][308]Cmd: TRANSACTION REDO
+[2025.02.06-03.24.00:898][308]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.24.01:231][332]Cmd: TRANSACTION REDO
+[2025.02.06-03.24.01:231][332]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.24.02:579][413]Cmd: TRANSACTION REDO
+[2025.02.06-03.24.02:579][413]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.24.03:150][458]Cmd: TRANSACTION REDO
+[2025.02.06-03.24.03:150][458]LogEditorTransaction: Redo Add Node
+[2025.02.06-03.24.04:939][604]LogEditorTransaction: Redo Move Node
+[2025.02.06-03.24.05:369][612]LogEditorTransaction: Redo Add New Function
+[2025.02.06-03.24.07:489][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13306.154297
+[2025.02.06-03.24.07:577][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-03.24.07:577][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13306.230469, Update Interval: 316.313354
+[2025.02.06-03.24.08:617][884]LogEditorTransaction: Undo Add New Function
+[2025.02.06-03.24.16:033][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.02.06-03.24.26:229][465]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.06-03.24.26:235][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.06-03.24.26:268][465]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2025.02.06-03.24.26:270][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001363s)
+[2025.02.06-03.24.26:270][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.001402s)
+[2025.02.06-03.24.26:293][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.02.06-03.24.26:306][465]LogChaosDD: Creating Chaos Debug Draw Scene for world TutorialMap
+[2025.02.06-03.24.26:308][465]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap'.
+[2025.02.06-03.24.26:308][465]LogPlayLevel: PIE: World Init took: (0.001451s)
+[2025.02.06-03.24.26:309][465]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.02.06-03.24.26:309][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.06-03.24.26:309][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.06-03.24.26:309][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.06-03.24.26:309][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.06-03.24.26:309][465]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.06-03.24.26:309][465]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.06-03.24.26:309][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.06-03.24.26:309][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.06-03.24.26:309][465]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.06-03.24.26:309][465]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.06-03.24.26:309][465]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.06-03.24.26:312][465]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.06-03.24.26:333][465]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.06-03.24.26:333][465]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.06-03.24.26:333][465]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.06-03.24.26:333][465]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.06-03.24.26:334][465]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2025.02.06-03.24.26:334][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2025.02.06-03.24.26:335][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2025.02.06-03.24.26:335][465]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2025.02.06-03.24.26:335][465]LogInit: FAudioDevice initialized with ID 37.
+[2025.02.06-03.24.26:335][465]LogAudio: Display: Audio Device (ID: 37) registered with world 'TutorialMap'.
+[2025.02.06-03.24.26:335][465]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2025.02.06-03.24.26:338][465]LogLoad: Game class is 'GM_Tutorial_C'
+[2025.02.06-03.24.26:338][465]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2025.02.05-21.24.26
+[2025.02.06-03.24.26:338][465]LogWorld: Bringing up level for play took: 0.000461
+[2025.02.06-03.24.26:340][465]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2025.02.06-03.24.26:344][465]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.02.06-03.24.26:344][465]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.02.06-03.24.26:345][465]PIE: Server logged in
+[2025.02.06-03.24.26:346][465]PIE: Play in editor total start time 0.112 seconds.
+[2025.02.06-03.24.27:237][571]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.02.06-03.24.27:237][571]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.02.06-03.24.44:109][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.06-03.24.44:109][589]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2025.02.06-03.24.44:109][589]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.06-03.24.44:109][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.06-03.24.44:118][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.06-03.24.44:124][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.06-03.24.44:145][589]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.06-03.24.44:145][589]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2025.02.06-03.24.44:145][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.02.06-03.24.44:147][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.02.06-03.24.44:151][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.06-03.24.44:154][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.02.06-03.24.44:183][590]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2025.02.06-03.24.46:903][912]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.06-03.24.46:909][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.06-03.24.46:948][912]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2025.02.06-03.24.46:949][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001393s)
+[2025.02.06-03.24.46:949][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.001435s)
+[2025.02.06-03.24.46:967][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.02.06-03.24.46:971][912]LogChaosDD: Creating Chaos Debug Draw Scene for world TutorialMap
+[2025.02.06-03.24.46:972][912]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap'.
+[2025.02.06-03.24.46:973][912]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2025.02.06-03.24.46:974][912]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.02.06-03.24.46:974][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.06-03.24.46:974][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.06-03.24.46:974][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.06-03.24.46:974][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.06-03.24.46:974][912]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.06-03.24.46:974][912]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.06-03.24.46:974][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.06-03.24.46:974][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.06-03.24.46:974][912]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.06-03.24.46:974][912]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.06-03.24.46:974][912]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.06-03.24.46:976][912]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.06-03.24.46:995][912]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.06-03.24.46:995][912]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.06-03.24.46:995][912]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.06-03.24.46:995][912]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.06-03.24.46:995][912]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.02.06-03.24.46:995][912]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.02.06-03.24.46:998][912]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.02.06-03.24.46:998][912]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.02.06-03.24.46:998][912]LogInit: FAudioDevice initialized with ID 38.
+[2025.02.06-03.24.46:998][912]LogAudio: Display: Audio Device (ID: 38) registered with world 'TutorialMap'.
+[2025.02.06-03.24.46:998][912]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.02.06-03.24.47:000][912]LogLoad: Game class is 'GM_Tutorial_C'
+[2025.02.06-03.24.47:001][912]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2025.02.05-21.24.47
+[2025.02.06-03.24.47:001][912]LogWorld: Bringing up level for play took: 0.000455
+[2025.02.06-03.24.47:002][912]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.02.06-03.24.47:007][912]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.02.06-03.24.47:007][912]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.02.06-03.24.47:007][912]PIE: Server logged in
+[2025.02.06-03.24.47:008][912]PIE: Play in editor total start time 0.1 seconds.
+[2025.02.06-03.24.49:299][186]Cmd: quit
+[2025.02.06-03.24.49:300][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.06-03.24.49:300][186]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2025.02.06-03.24.49:328][186]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.06-03.24.49:328][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.06-03.24.49:333][186]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.06-03.24.49:339][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.06-03.24.49:357][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.06-03.24.49:357][186]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.02.06-03.24.49:358][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.02.06-03.24.49:359][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.02.06-03.24.49:365][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.06-03.24.49:407][187]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.02.06-03.25.28:585][249]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.06-03.25.28:591][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.06-03.25.28:627][249]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2025.02.06-03.25.28:628][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001366s)
+[2025.02.06-03.25.28:628][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.001406s)
+[2025.02.06-03.25.28:647][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.06-03.25.28:652][249]LogChaosDD: Creating Chaos Debug Draw Scene for world TutorialMap
+[2025.02.06-03.25.28:653][249]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap'.
+[2025.02.06-03.25.28:654][249]LogPlayLevel: PIE: World Init took: (0.001391s)
+[2025.02.06-03.25.28:654][249]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.02.06-03.25.28:654][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.06-03.25.28:654][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.06-03.25.28:654][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.06-03.25.28:654][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.06-03.25.28:654][249]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.06-03.25.28:654][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.06-03.25.28:654][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.06-03.25.28:654][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.06-03.25.28:654][249]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.06-03.25.28:654][249]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.06-03.25.28:654][249]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.06-03.25.28:657][249]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.06-03.25.28:677][249]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.06-03.25.28:677][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.06-03.25.28:677][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.06-03.25.28:677][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.06-03.25.28:677][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.02.06-03.25.28:677][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.02.06-03.25.28:679][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.02.06-03.25.28:679][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.02.06-03.25.28:679][249]LogInit: FAudioDevice initialized with ID 39.
+[2025.02.06-03.25.28:679][249]LogAudio: Display: Audio Device (ID: 39) registered with world 'TutorialMap'.
+[2025.02.06-03.25.28:679][249]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.02.06-03.25.28:682][249]LogLoad: Game class is 'GM_Tutorial_C'
+[2025.02.06-03.25.28:682][249]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2025.02.05-21.25.28
+[2025.02.06-03.25.28:683][249]LogWorld: Bringing up level for play took: 0.000481
+[2025.02.06-03.25.28:684][249]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2025.02.06-03.25.28:689][249]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.02.06-03.25.28:689][249]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.02.06-03.25.28:690][249]PIE: Server logged in
+[2025.02.06-03.25.28:691][249]PIE: Play in editor total start time 0.1 seconds.
+[2025.02.06-03.25.29:567][353]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.02.06-03.25.29:567][353]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.02.06-03.25.35:794][ 96]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.02.06-03.25.35:794][ 96]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.02.06-03.25.38:007][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.06-03.25.38:007][348]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2025.02.06-03.25.38:007][348]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.06-03.25.38:007][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.06-03.25.38:016][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.06-03.25.38:022][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.06-03.25.38:045][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.06-03.25.38:045][348]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.02.06-03.25.38:045][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.02.06-03.25.38:046][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.02.06-03.25.38:053][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.02.06-03.25.38:083][349]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2025.02.06-03.26.34:001][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.02.06-03.26.37:234][917]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.06-03.26.37:239][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.06-03.26.37:239][917]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2025.02.06-03.26.37:240][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001330s)
+[2025.02.06-03.26.37:240][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.001360s)
+[2025.02.06-03.26.37:262][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.02.06-03.26.37:272][917]LogChaosDD: Creating Chaos Debug Draw Scene for world TutorialMap
+[2025.02.06-03.26.37:273][917]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap'.
+[2025.02.06-03.26.37:273][917]LogPlayLevel: PIE: World Init took: (0.001523s)
+[2025.02.06-03.26.37:273][917]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.02.06-03.26.37:273][917]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.06-03.26.37:273][917]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.06-03.26.37:273][917]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.06-03.26.37:273][917]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.06-03.26.37:273][917]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.06-03.26.37:273][917]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.06-03.26.37:273][917]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.06-03.26.37:273][917]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.06-03.26.37:273][917]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.06-03.26.37:273][917]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.06-03.26.37:273][917]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.06-03.26.37:276][917]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.06-03.26.37:296][917]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.06-03.26.37:296][917]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.06-03.26.37:296][917]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.06-03.26.37:296][917]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.06-03.26.37:297][917]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2025.02.06-03.26.37:297][917]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2025.02.06-03.26.37:298][917]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2025.02.06-03.26.37:298][917]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2025.02.06-03.26.37:298][917]LogInit: FAudioDevice initialized with ID 40.
+[2025.02.06-03.26.37:298][917]LogAudio: Display: Audio Device (ID: 40) registered with world 'TutorialMap'.
+[2025.02.06-03.26.37:298][917]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2025.02.06-03.26.37:301][917]LogLoad: Game class is 'GM_Tutorial_C'
+[2025.02.06-03.26.37:301][917]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2025.02.05-21.26.37
+[2025.02.06-03.26.37:301][917]LogWorld: Bringing up level for play took: 0.000460
+[2025.02.06-03.26.37:303][917]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2025.02.06-03.26.37:307][917]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.02.06-03.26.37:307][917]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.02.06-03.26.37:308][917]PIE: Server logged in
+[2025.02.06-03.26.37:309][917]PIE: Play in editor total start time 0.07 seconds.
+[2025.02.06-03.26.38:043][  5]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.02.06-03.26.38:043][  5]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.02.06-03.27.00:166][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.06-03.27.00:166][653]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2025.02.06-03.27.00:166][653]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.06-03.27.00:166][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.06-03.27.00:175][653]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.06-03.27.00:180][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.06-03.27.00:204][653]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.06-03.27.00:204][653]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2025.02.06-03.27.00:204][653]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.02.06-03.27.00:206][653]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.02.06-03.27.00:210][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.06-03.27.00:213][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.02.06-03.27.00:244][654]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2025.02.06-03.27.05:357][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.06-03.27.05:455][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.02.06-03.27.05:466][157]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Maps/TutorialMap
+[2025.02.06-03.27.05:466][157]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_proj_02/InfiniteMatrixStarter/Saved/TutorialMapEC97A8714710C92F88DE218693E115A7.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_proj_02/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2025.02.06-03.27.05:474][157]LogFileHelpers: Saving map 'TutorialMap' took 0.057
+[2025.02.06-03.27.05:481][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.503 ms (total: 4.27 sec)
+[2025.02.06-03.27.05:534][157]LogContentValidation: Display: Starting to validate 2 assets
+[2025.02.06-03.27.05:534][157]LogContentValidation: Enabled validators:
+[2025.02.06-03.27.05:534][157]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.06-03.27.05:534][157]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.06-03.27.05:534][157]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.06-03.27.05:534][157]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.06-03.27.05:534][157]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.06-03.27.05:534][157]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.06-03.27.05:534][157]AssetCheck: /Game/InfiniteMatrix/Maps/TutorialMap Validating asset
+[2025.02.06-03.27.05:534][157]AssetCheck: /Game/InfiniteMatrix/Maps/TutorialMap Validating asset
+[2025.02.06-03.27.07:669][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.06-03.27.07:716][371]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/UI/WBP_Restart] ([2] browsable assets)...
+[2025.02.06-03.27.07:718][371]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Restart.WBP_Restart]
+[2025.02.06-03.27.07:718][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/UI/WBP_Restart]
+[2025.02.06-03.27.07:726][371]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/UI/WBP_Restart
+[2025.02.06-03.27.07:727][371]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_proj_02/InfiniteMatrixStarter/Saved/WBP_Restart531B5D6644EA4510B4DDD79BD1EABA77.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_proj_02/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset'
+[2025.02.06-03.27.07:735][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.168 ms (total: 4.33 sec)
+[2025.02.06-03.27.07:784][371]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.06-03.27.07:784][371]LogContentValidation: Enabled validators:
+[2025.02.06-03.27.07:784][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.06-03.27.07:784][371]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.06-03.27.07:784][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.06-03.27.07:784][371]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.06-03.27.07:784][371]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.06-03.27.07:784][371]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.06-03.27.07:785][371]AssetCheck: /Game/InfiniteMatrix/UI/WBP_Restart Validating asset
+[2025.02.06-03.27.09:200][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.06-03.27.09:250][485]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/UI/WBP_Menu] ([2] browsable assets)...
+[2025.02.06-03.27.09:252][485]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Menu.WBP_Menu]
+[2025.02.06-03.27.09:252][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/UI/WBP_Menu]
+[2025.02.06-03.27.09:252][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/UI/WBP_Menu" FILE="../../../../../../Users/aleza/GitHub/CS415_AF_proj_02/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Menu.uasset" SILENT=true
+[2025.02.06-03.27.09:262][485]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/UI/WBP_Menu
+[2025.02.06-03.27.09:262][485]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_proj_02/InfiniteMatrixStarter/Saved/WBP_Menu7D45D4F04361B229578DD6BD94F01C59.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_proj_02/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Menu.uasset'
+[2025.02.06-03.27.09:272][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.455 ms (total: 4.40 sec)
+[2025.02.06-03.27.09:316][485]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.06-03.27.09:316][485]LogContentValidation: Enabled validators:
+[2025.02.06-03.27.09:316][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.06-03.27.09:316][485]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.06-03.27.09:316][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.06-03.27.09:316][485]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.06-03.27.09:316][485]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.06-03.27.09:316][485]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.06-03.27.09:317][485]AssetCheck: /Game/InfiniteMatrix/UI/WBP_Menu Validating asset
+[2025.02.06-03.27.10:926][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.06-03.27.10:984][614]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.02.06-03.27.10:984][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2025.02.06-03.27.11:008][614]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_Player
+[2025.02.06-03.27.11:008][614]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_proj_02/InfiniteMatrixStarter/Saved/BP_Player79D677DC411AAB63776BECA9533E8773.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_proj_02/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2025.02.06-03.27.11:017][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.169 ms (total: 4.49 sec)
+[2025.02.06-03.27.11:067][614]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.06-03.27.11:067][614]LogContentValidation: Enabled validators:
+[2025.02.06-03.27.11:067][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.06-03.27.11:067][614]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.06-03.27.11:067][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.06-03.27.11:067][614]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.06-03.27.11:067][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.06-03.27.11:067][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.06-03.27.11:067][614]AssetCheck: /Game/InfiniteMatrix/Blueprints/BP_Player Validating asset
